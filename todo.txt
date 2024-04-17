@@ -1,0 +1,15 @@
+1. install with vite
+2. install and configure typescript with prettier and eslint
+3. intall and use SCSS with dummy index html page
+4. make router and pinia store
+5. create components using composition api
+6. create routes
+7. make composables
+8. add services for api call with axios and db.json hosted online and use async await
+9. add a form with submit validation
+10. add success and error messages
+11. add vue use for date format
+12. check cheatsheet for all concepts
+13. add unit tests for each components
+14. add global tests for overall app
+15. push code on github
