@@ -27,7 +27,7 @@ const currentRouteName = computed(() => {
                 >
                 <RouterLink
                     to="/events"
-                    :class="currentRouteName === 'event-list' ? 'underline' : ''"
+                    :class="currentRouteName === 'event-list' || 'event-detail' ? 'underline' : ''"
                     >Events</RouterLink
                 >
                 <RouterLink to="/about" :class="currentRouteName === 'about' ? 'underline' : ''"
